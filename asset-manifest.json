@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c4929c1.css",
+    "main.js": "/static/js/main.000feaa4.js",
+    "static/media/Background_About.png": "/static/media/Background_About.fce6fc3e9ed27433e9b0.png",
+    "static/media/Background_Home.png": "/static/media/Background_Home.efc1935eb81fc5e585f9.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "static/media/Logo_Kasa_Pink.png": "/static/media/Logo_Kasa_Pink.db14de64990364568cf2.png",
+    "index.html": "/index.html",
+    "main.6c4929c1.css.map": "/static/css/main.6c4929c1.css.map",
+    "main.000feaa4.js.map": "/static/js/main.000feaa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c4929c1.css",
+    "static/js/main.000feaa4.js"
+  ]
+}
